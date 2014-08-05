@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>livenotifier</id>
+    <name>livenotifier</name>
+    <description>Plugin pour utiliser livenotifier</description>
+    <icon>fa fa-signal</icon>
+    <licence>AGPL</licence>
+    <author>CONSELIO SA</author>
+    <installation>Aucune</installation>
+    <require>1.10</require>
+    <version>1.0</version>
+    <category>communication</category>
+</info>
+
